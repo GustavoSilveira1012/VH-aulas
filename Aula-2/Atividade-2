@@ -1,0 +1,146 @@
+# Planejamento Estratégico – Integração Vertical e Horizontal (Integração Industrial)
+
+## 1. Introdução
+
+Este documento apresenta um planejamento estratégico voltado à integração vertical e horizontal de uma empresa industrial brasileira, considerando a necessidade de modernização tecnológica, aumento da competitividade e melhoria da coordenação dos processos produtivos.
+
+O objetivo é estruturar propostas de Tecnologia da Informação (TI) capazes de promover maior integração entre os níveis hierárquicos da organização (chão de fábrica, sistemas de controle e gestão) e entre processos ao longo da cadeia de valor.
+
+---
+
+## 2. Objetivos Estratégicos
+
+- Promover integração total entre operação, gestão e estratégia.
+- Eliminar silos organizacionais.
+- Melhorar a comunicação entre áreas produtivas e administrativas.
+- Integrar fornecedores e clientes ao fluxo informacional da empresa.
+- Utilizar dados industriais como suporte à tomada de decisão estratégica.
+- Aumentar eficiência, qualidade e previsibilidade dos processos.
+
+---
+
+## 3. Planejamento da Integração Vertical
+
+A integração vertical conectará os seguintes níveis:
+
+### 3.1 Nível Operacional (Chão de Fábrica)
+
+- Sensores industriais (IoT)
+- CLPs e sistemas de controle
+- Coleta automática de dados de produção
+- Monitoramento em tempo real
+
+### 3.2 Nível Tático (Supervisão e Controle)
+
+- Implementação de sistema MES (Manufacturing Execution System)
+- Controle de ordens de produção
+- Rastreabilidade de processos
+- Monitoramento de indicadores (OEE, produtividade, qualidade)
+
+### 3.3 Nível Estratégico (Gestão)
+
+- Integração do MES com ERP
+- Planejamento de recursos (produção, estoque, compras)
+- Dashboards gerenciais com BI
+- Apoio à tomada de decisão baseada em dados
+
+### Tecnologias Propostas:
+
+- ERP integrado
+- Sistema MES
+- Business Intelligence (BI)
+- Computação em nuvem
+- Integração via APIs industriais
+- Redes industriais seguras
+
+### Resultados Esperados:
+
+- Redução de atrasos informacionais
+- Decisões estratégicas baseadas em dados reais
+- Maior controle sobre custos e produtividade
+- Alinhamento entre operação e estratégia empresarial
+
+---
+
+## 4. Planejamento da Integração Horizontal
+
+A integração horizontal conectará processos e áreas no mesmo nível organizacional, incluindo produção, logística, fornecedores e clientes.
+
+### 4.1 Integração entre Produção e Logística
+
+- Planejamento sincronizado de produção e distribuição
+- Controle automatizado de estoque
+- Sistema WMS integrado ao ERP
+
+### 4.2 Integração com Fornecedores
+
+- Portal digital de fornecedores
+- Compartilhamento de previsão de demanda
+- Integração EDI (Electronic Data Interchange)
+
+### 4.3 Integração com Clientes
+
+- CRM integrado ao ERP
+- Acompanhamento de pedidos em tempo real
+- Canal digital para suporte e relacionamento
+
+### 4.4 Integração entre Unidades Industriais
+
+- Padronização de sistemas
+- Banco de dados centralizado
+- Monitoramento corporativo unificado
+
+### Resultados Esperados:
+
+- Redução de retrabalho e conflitos entre departamentos
+- Maior previsibilidade da cadeia de suprimentos
+- Redução de custos logísticos
+- Melhor posicionamento competitivo na cadeia de valor
+
+---
+
+## 5. Propostas de Tecnologia da Informação
+
+Para viabilizar a integração industrial completa, recomenda-se:
+
+- Implementação de arquitetura baseada em dados
+- Uso de computação em nuvem para centralização de informações
+- Aplicação de ferramentas de BI para análise estratégica
+- Segurança cibernética industrial (firewalls industriais, segmentação de rede)
+- Integração de sistemas via APIs e middleware
+- Armazenamento estruturado de dados industriais
+
+A TI passa a atuar como elemento central da estratégia organizacional, não apenas como suporte técnico.
+
+---
+
+## 6. Indicadores de Desempenho (KPIs)
+
+Para avaliar a eficácia da integração:
+
+- OEE (Eficiência Global do Equipamento)
+- Lead time de produção
+- Índice de retrabalho
+- Giro de estoque
+- Tempo de resposta a pedidos
+- Redução de custos operacionais
+
+---
+
+## 7. Impactos Estratégicos na Cadeia de Valor
+
+Com a integração industrial implementada, a empresa:
+
+- Fortalece sua posição na cadeia produtiva
+- Aumenta a confiabilidade operacional
+- Melhora a capacidade de resposta ao mercado
+- Eleva seu nível de maturidade digital
+- Torna-se mais competitiva em nível nacional e internacional
+
+---
+
+## 8. Conclusão
+
+A integração vertical e horizontal, quando planejada estrategicamente e apoiada por tecnologias da informação adequadas, transforma a organização em um sistema industrial inteligente e orientado por dados.
+
+Esse modelo promove maior coordenação dos processos, integração da cadeia de valor e decisões estratégicas mais assertivas, consolidando a integração industrial como fator essencial para a competitividade no cenário atual.
