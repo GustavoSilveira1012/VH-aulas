@@ -1,0 +1,178 @@
+# Implantação de Rede Industrial em Fábrica de Tijolos Ecológicos
+
+## 1. Introdução
+
+Uma empresa do setor de construção sustentável pretende implantar uma rede industrial em uma fábrica de produção de tijolos ecológicos. O objetivo dessa rede é permitir a comunicação entre máquinas, sensores e sistemas de supervisão, garantindo maior automação, controle do processo produtivo e eficiência operacional.
+
+Para isso, é necessário realizar um levantamento técnico dos equipamentos que serão utilizados na infraestrutura de comunicação e automação industrial, além de analisar custos, fornecedores e a viabilidade técnica da solução.
+
+---
+
+# 2. Levantamento de Equipamentos
+
+Para a implantação da rede industrial serão necessários alguns equipamentos fundamentais para comunicação e controle dos processos produtivos.
+
+## CLP (Controlador Lógico Programável)
+
+O CLP será responsável pelo controle das máquinas utilizadas na produção dos tijolos, como prensas, esteiras e sistemas de mistura de materiais.
+
+**Exemplo de equipamento:**  
+CLP Siemens S7-1200
+
+**Fornecedor:** Siemens
+
+**Preço médio:**  
+R$ 2.500 a R$ 4.000
+
+**Características técnicas:**
+
+- Controle de processos industriais
+- Comunicação via Ethernet industrial
+- Alta confiabilidade para ambientes industriais
+
+---
+
+## Switch Industrial
+
+Os switches industriais permitem a comunicação entre os dispositivos da rede, garantindo estabilidade mesmo em ambientes com poeira, vibração e temperatura elevada.
+
+**Exemplo de equipamento:**  
+Switch Industrial Ethernet
+
+**Fornecedor:** Cisco
+
+**Preço médio:**  
+R$ 800 a R$ 1.500
+
+**Características técnicas:**
+
+- Comunicação Ethernet industrial
+- Alta resistência a ambientes industriais
+- Suporte a múltiplos dispositivos
+
+---
+
+## Cabeamento de Rede
+
+O cabeamento é responsável pela interligação entre os equipamentos da rede.
+
+**Tipo recomendado:**  
+Cabo Ethernet CAT6 industrial
+
+**Fornecedor:** Furukawa
+
+**Preço médio:**  
+R$ 5 a R$ 8 por metro
+
+**Características:**
+
+- Alta velocidade de transmissão de dados
+- Resistência a interferências elétricas
+- Durabilidade em ambiente industrial
+
+---
+
+## Sistema Supervisório (SCADA)
+
+O sistema supervisório permite o monitoramento e controle do processo produtivo através de um computador central.
+
+**Exemplo:**  
+Software supervisório industrial
+
+**Fornecedor:** Schneider Electric
+
+**Preço médio:**  
+R$ 3.000 a R$ 10.000 dependendo da licença.
+
+**Funções:**
+
+- Monitoramento das máquinas
+- Visualização de dados em tempo real
+- Controle e geração de relatórios de produção
+
+---
+
+# 3. Análise de Viabilidade Técnica e Econômica
+
+A implantação da rede industrial apresenta diversos benefícios para a empresa.
+
+## Benefícios técnicos
+
+- Automação do processo produtivo
+- Monitoramento em tempo real da produção
+- Redução de falhas humanas
+- Melhor controle de qualidade dos tijolos produzidos
+
+## Possibilidade de expansão
+
+A rede industrial pode ser expandida futuramente para incluir novos sensores, máquinas e sistemas de controle sem necessidade de reconstruir toda a infraestrutura.
+
+## Riscos envolvidos
+
+Alguns riscos precisam ser considerados:
+
+- custo inicial de implantação
+- necessidade de manutenção especializada
+- dependência de fornecedores de equipamentos
+
+---
+
+# 4. Estimativa de Investimento
+
+| Equipamento | Quantidade | Valor aproximado |
+|-------------|-----------|------------------|
+| CLP | 2 | R$ 6.000 |
+| Switch industrial | 2 | R$ 2.000 |
+| Cabeamento | 200m | R$ 1.200 |
+| Sistema supervisório | 1 | R$ 5.000 |
+
+**Investimento total estimado:**  
+
+R$ 14.200 aproximadamente.
+
+---
+
+# 5. Retorno do Investimento
+
+O retorno pode ocorrer através de:
+
+- aumento da produtividade
+- redução de desperdícios
+- menor tempo de parada das máquinas
+
+Com isso, a empresa pode recuperar o investimento em médio prazo.
+
+---
+
+# 6. Arquitetura da Rede Industrial
+Sensores / Máquinas
+│
+│
+CLP
+│
+│
+Switch Industrial
+│
+│
+Sistema Supervisório (SCADA)
+│
+│
+Rede Corporativa da Empresa
+
+
+## Explicação da arquitetura
+
+Os sensores e máquinas enviam dados para o CLP, que realiza o controle do processo produtivo.  
+O CLP se comunica com o switch industrial, responsável pela distribuição da comunicação entre os dispositivos.
+
+O sistema supervisório recebe essas informações e permite que os operadores acompanhem o funcionamento da fábrica em tempo real.
+
+Essa estrutura permite organização da rede, facilidade de manutenção e possibilidade de expansão futura.
+
+---
+
+# 7. Conclusão
+
+A implantação de uma rede industrial na fábrica de tijolos ecológicos é uma solução viável tanto tecnicamente quanto economicamente. A utilização de equipamentos como CLPs, switches industriais e sistemas supervisórios permite automatizar processos, melhorar o controle da produção e aumentar a eficiência operacional.
+
+Além disso, a estrutura proposta possibilita futuras expansões, acompanhando o crescimento da empresa e a evolução tecnológica da indústria.
